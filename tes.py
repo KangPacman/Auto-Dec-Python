@@ -1,6 +1,6 @@
 # coding:utf8
 # Create By Kang Pacman Gans:v
-# Thanks To : Rizky ID, Khairul Syabana, Nanta XE, Dan Seluruh Member Grup User Termux Newbie
+# Thanks To : Rizky ID, Khairul Syabana, Nanta XE, Zulfikar, Dan Seluruh Member Grup User Termux Newbie
 try:
 	import os,sys, platform, uncompyle6
 except ImportError:
